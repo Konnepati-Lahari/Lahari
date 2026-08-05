@@ -7,6 +7,7 @@ Working on Java Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Konnepati-Lahari/Lahari/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/Konnepati-Lahari/Lahari/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Konnepati-Lahari/Lahari/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Konnepati-Lahari/Lahari/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Konnepati-Lahari/Lahari/tree/main/1929-concatenation-of-array/) | Easy |
@@ -24,4 +25,8 @@ Working on Java Programming
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Konnepati-Lahari/Lahari/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Konnepati-Lahari/Lahari/tree/main/1929-concatenation-of-array/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1652-defuse-the-bomb](https://github.com/Konnepati-Lahari/Lahari/tree/main/1652-defuse-the-bomb/) | Easy |
 <!---LeetCode Topics End-->
