@@ -7,6 +7,7 @@ Working on Java Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Konnepati-Lahari/Lahari/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Konnepati-Lahari/Lahari/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Konnepati-Lahari/Lahari/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Konnepati-Lahari/Lahari/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Konnepati-Lahari/Lahari/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -15,6 +16,7 @@ Working on Java Programming
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Konnepati-Lahari/Lahari/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Konnepati-Lahari/Lahari/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Konnepati-Lahari/Lahari/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Math
