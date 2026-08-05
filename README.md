@@ -8,6 +8,7 @@ Working on Java Programming
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Konnepati-Lahari/Lahari/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Konnepati-Lahari/Lahari/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Konnepati-Lahari/Lahari/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Konnepati-Lahari/Lahari/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -21,5 +22,6 @@ Working on Java Programming
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Konnepati-Lahari/Lahari/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Konnepati-Lahari/Lahari/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
