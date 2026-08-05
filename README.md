@@ -6,9 +6,15 @@ Working on Java Programming
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Konnepati-Lahari/Lahari/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Konnepati-Lahari/Lahari/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Konnepati-Lahari/Lahari/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Konnepati-Lahari/Lahari/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Konnepati-Lahari/Lahari/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 <!---LeetCode Topics End-->
